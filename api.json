@@ -3,5 +3,8 @@
     "info": {
         "title": "test",
         "description": "test"
+    },
+    "paths": {
+        "/test": {}
     }
 }
